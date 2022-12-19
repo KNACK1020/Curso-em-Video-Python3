@@ -1,2 +1,2 @@
 # Curso-em-Video-Python
- Exercícios do curso de Python do canal "Curso em vídeo"
+ Todos os exercícios do curso de Python do canal "Curso em vídeo" resolvidos (ainda em desenvolvimento)
