@@ -1,3 +1,4 @@
+# Simplesmente roda um arquivo de áudio com a biblioteca "pygame".
 import pygame
 pygame.mixer.init()
 pygame.init()
