@@ -1,3 +1,4 @@
+# Calcula o valor do aluguel de um carro.
 dias = int(input('Digite por quantos dias o carro foi alugado: '))
 km = float(input('Digite quantos quilômetros esse carro andou: '))
 

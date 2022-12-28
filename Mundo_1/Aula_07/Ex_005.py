@@ -1,4 +1,5 @@
-num = int(input('Escreva um número qualquer: '))
+# Sucessor e antessessor de um número inteiro.
+num = int(input('Escreva um número inteiro qualquer: '))
 
 print(f'O antecessor do número escrito anteriormente é {num - 1}', end=' ')
 print(f'e o seu sucessor é {num + 1}')

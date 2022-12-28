@@ -1,3 +1,4 @@
+# Escolha aleatória de um entre quatro alunos.
 from random import choice
 
 

@@ -1,3 +1,4 @@
+# Cálculo do seno, cosseno e tangente de um ângulo.
 from math import sin, cos, tan, radians
 
 ang = int(input('Digite um ângulo qualquer: '))

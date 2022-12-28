@@ -1,3 +1,4 @@
+# Aleatória a ordem de apresentação dos alunos.
 from random import shuffle
 
 

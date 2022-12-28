@@ -1,3 +1,4 @@
+# Verifica se existe a palavra Santo em um nome.
 nome = input('Digite seu nome inteiro (ou o de qualquer outra pessoa): ').title().split()
 # Lê o nome, converte para title e separa por espaços.
 

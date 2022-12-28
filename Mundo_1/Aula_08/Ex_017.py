@@ -1,3 +1,4 @@
+# Cálculo da hipotenusa de um triângulo retângulo.
 from math import hypot
 
 

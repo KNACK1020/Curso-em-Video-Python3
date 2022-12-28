@@ -1,3 +1,4 @@
+# Calcula o aumento do salário de um funcionário.
 salario = float(input('Digite o salário atual do funcionário: R$'))
 
 salario += salario * float(input('Digite o aumento em percentagem do salário: ')) / 100

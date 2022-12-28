@@ -1,3 +1,4 @@
+# Verifica se o nome de uma cidade começa com Santos.
 cidade = input('Digite o nome de uma cidade qualquer: ').title().split()# Lê o nome da cidade,
 # converte ele para title e separa por espaços.
 

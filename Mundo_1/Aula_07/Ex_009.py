@@ -1,3 +1,4 @@
+# Tabuada de um número.
 num = int(input('Digite um número, e será mostrada sua taboada: '))
 print('-'*13)
 print(f'{num} x  1 = {num}')

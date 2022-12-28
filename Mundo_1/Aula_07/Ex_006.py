@@ -1,3 +1,4 @@
+# Contas matemáticas com um número dado.
 num = int(input('Escreva um número qualquer: '))
 
 print(f'O dobro desse número é {num * 2} e seu triplo é {num * 3}.')

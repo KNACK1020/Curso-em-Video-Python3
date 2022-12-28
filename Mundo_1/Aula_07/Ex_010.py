@@ -1,3 +1,4 @@
+# Conversão de reais para dólares.
 reais = float(input('Digite quantos reais você tem na sua carteira: R$'))
 print(type(reais))
 

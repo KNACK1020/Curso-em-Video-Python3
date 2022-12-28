@@ -1,4 +1,5 @@
-c = float(input('Digite uma temperatura em celcius: '))
+# Conversão de Celcius para Fahrenheit.
+c = float(input('Digite uma temperatura em Celcius: '))
 
 f = c / 5 * 9 + 32
 

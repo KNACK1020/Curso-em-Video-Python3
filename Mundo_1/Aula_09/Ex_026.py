@@ -1,3 +1,4 @@
+# Verifica informações sobre a letra A em uma frase.
 frase = input('Digite uma frase qualquer: ').upper().strip()# 'Upper' para poder contar com precisão e 'strip' para não contar os espaços no começo e fim.
 frase = frase.replace('Á', 'A')# Lê a frase e substitui toda letra com acento
 frase = frase.replace('Ã', 'A')# para que também conte os A's acentuados.

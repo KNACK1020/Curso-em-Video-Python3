@@ -1,3 +1,4 @@
+# Arredonda um número para cima e para baixo.
 import math
 
 num = float(input('Digite um número com vírgula qualquer: '))
