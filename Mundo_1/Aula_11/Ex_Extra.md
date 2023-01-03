@@ -1,0 +1,1 @@
+O exercício extra (e único exercício da aula 11) consiste apenas em utilizar o sistema de cores no terminal ensinado na aula 11 em todos os exercícios até então dados, ou seja, do Ex_001 ao Ex_035.

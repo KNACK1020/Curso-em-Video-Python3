@@ -1,14 +1,20 @@
 # Tabuada de um número.
-num = int(input('Digite um número, e será mostrada sua taboada: '))
-print('-'*13)
-print(f'{num} x  1 = {num}')
-print(f'{num} x  2 = {num*2}')
-print(f'{num} x  3 = {num*3}')
-print(f'{num} x  4 = {num*4}')
-print(f'{num} x  5 = {num*5}')
-print(f'{num} x  6 = {num*6}')
-print(f'{num} x  7 = {num*7}')
-print(f'{num} x  8 = {num*8}')
-print(f'{num} x  9 = {num*9}')
-print(f'{num} x 10 = {num*10}')
-print('-'*13)
+cores = {'limpa':'\033[m',
+'verde':'\033[1;32m',
+'vermelho':'\033[1;31m'}
+# Dicionário de cores
+
+num = float(input('Digite um número, e será mostrada sua taboada: \033[1;32m'))
+
+print('\033[m', '-'*13)
+print('{}{}{} x  1 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num, cores['limpa']))
+print('{}{}{} x  2 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*2, cores['limpa']))
+print('{}{}{} x  3 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*3, cores['limpa']))
+print('{}{}{} x  4 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*4, cores['limpa']))
+print('{}{}{} x  5 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*5, cores['limpa']))
+print('{}{}{} x  6 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*6, cores['limpa']))
+print('{}{}{} x  7 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*7, cores['limpa']))
+print('{}{}{} x  8 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*8, cores['limpa']))
+print('{}{}{} x  9 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*9, cores['limpa']))
+print('{}{}{} x 10 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num*10, cores['limpa']))
+print('\033[m', '-'*13)
