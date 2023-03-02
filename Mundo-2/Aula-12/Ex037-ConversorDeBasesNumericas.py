@@ -1,3 +1,4 @@
+# Converte um número de base decimal para três possíveis bases: binário, octal ou hexadecimal.
 num_int = int(input('Digite um número inteiro: '))
 escolha = input('''[1] Binário
 [2] Octal

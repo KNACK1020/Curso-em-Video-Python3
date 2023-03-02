@@ -1,3 +1,4 @@
+# Lê a data de nascimento de um atleta e, de acordo o ano atual, calcula sua idade e classifica-o com base nela.
 from datetime import date
 nascimento = int(input('Digite a data de nascimento do(a) atleta: '))
 teste = str(input('Esse(a) atleta já fez aniversário esse ano? Digite 1 para sim e 2 para não: ')).strip()

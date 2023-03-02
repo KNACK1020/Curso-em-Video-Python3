@@ -1,3 +1,4 @@
+# Lê duas notas de um aluno, mostra a média entre essas notas e diz se o aluno foi aprovado, reprovado ou está em recuperação.
 notas = input('Digite as duas notas do aluno (separadas por espaço): ').split()
 nota1 = float(notas[0])
 nota2 = float(notas[1])
