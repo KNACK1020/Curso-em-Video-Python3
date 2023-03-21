@@ -4,7 +4,7 @@ cores = {'limpa':'\033[m',
 'vermelho':'\033[1;31m'}
 # Dicionário de cores
 
-num = float(input('Digite um número, e será mostrada sua taboada: \033[1;32m'))
+num = float(input('Digite um número, e será mostrada sua tabuada: \033[1;32m'))
 
 print('\033[m', '-'*13)
 print('{}{}{} x  1 = {}{}{}'.format(cores['verde'], num, cores['limpa'], cores['vermelho'], num, cores['limpa']))
