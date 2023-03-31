@@ -1,4 +1,4 @@
-# Lê o primeiro termo de uma progressão aritmética (PA), sua razão e,
+# Lê o primeiro termo de uma progressão aritmética (PA) e sua razão e,
 # com isso, mostra os 10 primeiros termos dessa progressão.
 primeiro = int(input('Digite o primeiro termo de uma PA (progressão artitmética): '))
 razao = int(input('Agora digite a razão dessa PA: '))
