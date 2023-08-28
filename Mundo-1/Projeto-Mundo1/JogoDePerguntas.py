@@ -92,7 +92,7 @@ Alternativa 3: 11
 Alternativa 4: 2''',
 
 '''Qual das seguintes raças de cachorro normalmente tem um pelo todo amarelo/dourado?
-Alternativa 1: Golden River
+Alternativa 1: Golden Retriever
 Alternativa 2: Pitbull
 Alternativa 3: Shih Tzu
 Alternativa 4: Beagle''',
@@ -169,7 +169,7 @@ Alternativa 2: CCXIV
 Alternativa 3: DCCXXI
 Alternativa 4: DCCLVII''',
 
-'''"Um entre muitos palhaços, ainda assim um palhaço especial". A frase anterior, em inglês, fica:
+'''"Um entre muitos palhaços, ainda assim um palhaço especial". A frase anterior, em inglês, poderia ficar:
 Alternativa 1: "One among many clowns, yet still a special one"
 Alternativa 2: "A among many clowns, yet still special one"
 Alternativa 3: "One among very clowns, yet still an one special"
@@ -225,7 +225,7 @@ erra_pergunta = ['Confuso, não?',
 'Dica: não tem dica.',
 'Não foi esse, mas poderia ser uma boa opção...',
 'Tá quente.',
-'Para caso não saiba: monoteísta: acredita em um único Deus.',
+'Para caso não saiba: monoteísta é quem acredita em um único Deus.',
 'Esse também é bastante antigo.',
 'Poderia ser interessante ver ele tocando esse instrumento.',
 'Mesmo não sendo esse, ainda é bastante dinheiro, não?',
@@ -235,7 +235,7 @@ erra_pergunta = ['Confuso, não?',
 'Se fosse nessa religião, qual seria o mascote?',
 'Imagina se eu tivesse pedido todos os dígitos.',
 'É só 1: o da cabeça.',
-'Sério, por que todo mundo gosta tanto de 3 poucas cores na bandeira?',
+'Sério, por que todo mundo gosta tanto de 3 cores ou menos na bandeira?',
 'Ainda são bem baixas. Duvido conseguir essa sorte de primeira.',
 'Não esqueça de contar as casas da unidade e dezena.',
 'Velocidade da luz no vácuo: 299.792,458 km por segundo. Distância do sol: 150 milhões km. v = Δs/Δt.',
